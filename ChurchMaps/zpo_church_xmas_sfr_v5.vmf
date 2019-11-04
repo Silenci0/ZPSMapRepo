@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7538"
-	"mapversion" "157"
+	"mapversion" "158"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "157"
+	"mapversion" "158"
 	"classname" "worldspawn"
 	"chaptertitle" "Map made by {TG} The MadDog"
 	"comment" "Decompiled by BSPSource v1.3.17 from zpo_church_siege_xmas_md2"
@@ -37792,6 +37792,7 @@ entity
 	"disableshadows" "0"
 	"dmg" "0"
 	"forceclosed" "0"
+	"health" "1"
 	"ignoredebris" "0"
 	"lip" "0"
 	"locked_sentence" "0"
@@ -38630,6 +38631,7 @@ entity
 	"disableshadows" "0"
 	"dmg" "10"
 	"forceclosed" "0"
+	"health" "1"
 	"ignoredebris" "0"
 	"lip" "0"
 	"locked_sentence" "0"
@@ -38859,6 +38861,7 @@ entity
 	"disableshadows" "0"
 	"dmg" "10"
 	"forceclosed" "0"
+	"health" "1"
 	"ignoredebris" "0"
 	"lip" "0"
 	"locked_sentence" "0"
@@ -42939,6 +42942,7 @@ entity
 	"disableshadows" "0"
 	"dmg" "0"
 	"forceclosed" "0"
+	"health" "1"
 	"ignoredebris" "0"
 	"lip" "0"
 	"locked_sentence" "0"
@@ -43272,6 +43276,7 @@ entity
 	"disableshadows" "0"
 	"dmg" "0"
 	"forceclosed" "0"
+	"health" "1"
 	"ignoredebris" "0"
 	"lip" "0"
 	"locked_sentence" "0"
@@ -98174,6 +98179,7 @@ entity
 	"disableshadows" "0"
 	"dmg" "0"
 	"forceclosed" "1"
+	"health" "1"
 	"ignoredebris" "0"
 	"lip" "0"
 	"locked_sentence" "0"
@@ -98917,6 +98923,7 @@ entity
 	"disableshadows" "0"
 	"dmg" "5"
 	"forceclosed" "1"
+	"health" "1"
 	"ignoredebris" "1"
 	"lip" "0"
 	"locked_sentence" "0"
@@ -99025,6 +99032,7 @@ entity
 	"disableshadows" "0"
 	"dmg" "0"
 	"forceclosed" "0"
+	"health" "1"
 	"ignoredebris" "0"
 	"lip" "0"
 	"locked_sentence" "0"
@@ -99249,6 +99257,7 @@ entity
 	"disableshadows" "0"
 	"dmg" "0"
 	"forceclosed" "0"
+	"health" "1"
 	"ignoredebris" "0"
 	"lip" "0"
 	"locked_sentence" "0"
@@ -115216,8 +115225,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-186.414 -691.989 177.398]"
-		"look" "[-313.269 -926.252 168.188]"
+		"position" "[244.935 703.872 140.253]"
+		"look" "[508.043 713.454 181.953]"
 	}
 	camera
 	{

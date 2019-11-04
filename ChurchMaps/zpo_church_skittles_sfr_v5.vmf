@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7538"
-	"mapversion" "93"
+	"mapversion" "96"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "93"
+	"mapversion" "96"
 	"classname" "worldspawn"
 	"chaptertitle" "Map Made For Seventh Death Squad"
 	"comment" "Decompiled by BSPSource v1.3.17 from zpo_church_skittles_v4f"
@@ -26039,7 +26039,7 @@ world
 		side
 		{
 			"id" "10301"
-			"plane" "(-68 -1136 -58) (-68 -1840 -58) (1080 -1840 -58)"
+			"plane" "(-68 -1136 3.8147e-006) (-68 -1840 3.8147e-006) (1080 -1840 3.8147e-006)"
 			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[0 -1 0 28] 0.25"
 			"vaxis" "[-1 0 0 -16] 0.25"
@@ -26050,7 +26050,7 @@ world
 		side
 		{
 			"id" "10300"
-			"plane" "(-68 -1840 -58) (-68 -1136 -58) (-68 -1136 1087)"
+			"plane" "(-68 -1840 3.8147e-006) (-68 -1136 3.8147e-006) (-68 -1136 1087)"
 			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[0 1 0 -28] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -26061,7 +26061,7 @@ world
 		side
 		{
 			"id" "10299"
-			"plane" "(1080 -1136 -58) (1080 -1840 -58) (1080 -1840 1087)"
+			"plane" "(1080 -1136 3.8147e-006) (1080 -1840 3.8147e-006) (1080 -1840 1087)"
 			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[0 1 0 -28] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -26072,7 +26072,7 @@ world
 		side
 		{
 			"id" "10298"
-			"plane" "(1080 -1840 -58) (-68 -1840 -58) (-68 -1840 1087)"
+			"plane" "(1080 -1840 3.8147e-006) (-68 -1840 3.8147e-006) (-68 -1840 1087)"
 			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[-1 0 0 -16] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -26083,7 +26083,7 @@ world
 		side
 		{
 			"id" "10297"
-			"plane" "(-68 -1136 -58) (1080 -1136 -58) (1080 -1136 1087)"
+			"plane" "(-68 -1136 3.8147e-006) (1080 -1136 3.8147e-006) (1080 -1136 1087)"
 			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[1 0 0 16] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -26267,7 +26267,7 @@ world
 		side
 		{
 			"id" "10319"
-			"plane" "(-1804 -1136 -58) (-1804 -1840 -58) (-700 -1840 -58)"
+			"plane" "(-1804 -1136 2.00272e-005) (-1804 -1840 2.00272e-005) (-700 -1840 2.00272e-005)"
 			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[0 -1 0 28] 0.25"
 			"vaxis" "[-1 0 0 -16] 0.25"
@@ -26278,7 +26278,7 @@ world
 		side
 		{
 			"id" "10318"
-			"plane" "(-1804 -1840 -58) (-1804 -1136 -58) (-1804 -1136 1087)"
+			"plane" "(-1804 -1840 2.00272e-005) (-1804 -1136 2.00272e-005) (-1804 -1136 1087)"
 			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[0 1 0 -28] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -26289,7 +26289,7 @@ world
 		side
 		{
 			"id" "10317"
-			"plane" "(-700 -1136 -58) (-700 -1840 -58) (-700 -1840 1087)"
+			"plane" "(-700 -1136 2.00272e-005) (-700 -1840 2.00272e-005) (-700 -1840 1087)"
 			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[0 1 0 -28] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -26300,7 +26300,7 @@ world
 		side
 		{
 			"id" "10316"
-			"plane" "(-700 -1840 -58) (-1804 -1840 -58) (-1804 -1840 1087)"
+			"plane" "(-700 -1840 2.00272e-005) (-1804 -1840 2.00272e-005) (-1804 -1840 1087)"
 			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[-1 0 0 -16] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -26311,7 +26311,7 @@ world
 		side
 		{
 			"id" "10315"
-			"plane" "(-1804 -1136 -58) (-700 -1136 -58) (-700 -1136 1087)"
+			"plane" "(-1804 -1136 2.00272e-005) (-700 -1136 2.00272e-005) (-700 -1136 1087)"
 			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[1 0 0 16] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -26854,82 +26854,6 @@ world
 		editor
 		{
 			"color" "0 215 148"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	solid
-	{
-		"id" "24285"
-		side
-		{
-			"id" "10856"
-			"plane" "(-888 -3008 640) (-888 -1844 640) (120 -1844 640)"
-			"material" "TOOLS/TOOLSPLAYERCLIP"
-			"uaxis" "[0 1 0 36] 0.25"
-			"vaxis" "[-1 0 0 -32] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "10855"
-			"plane" "(-888 -1844 -61) (-888 -3008 -61) (120 -3008 -61)"
-			"material" "TOOLS/TOOLSPLAYERCLIP"
-			"uaxis" "[0 -1 0 -36] 0.25"
-			"vaxis" "[-1 0 0 -32] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "10854"
-			"plane" "(-888 -3008 -61) (-888 -1844 -61) (-888 -1844 640)"
-			"material" "TOOLS/TOOLSPLAYERCLIP"
-			"uaxis" "[0 1 0 36] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "10853"
-			"plane" "(120 -1844 -61) (120 -3008 -61) (120 -3008 640)"
-			"material" "TOOLS/TOOLSPLAYERCLIP"
-			"uaxis" "[0 1 0 36] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "10852"
-			"plane" "(120 -3008 -61) (-888 -3008 -61) (-888 -3008 640)"
-			"material" "TOOLS/TOOLSPLAYERCLIP"
-			"uaxis" "[-1 0 0 -32] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "10851"
-			"plane" "(-888 -1844 -61) (120 -1844 -61) (120 -1844 640)"
-			"material" "TOOLS/TOOLSPLAYERCLIP"
-			"uaxis" "[1 0 0 32] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		editor
-		{
-			"color" "0 119 192"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -42682,6 +42606,7 @@ entity
 	"disableshadows" "0"
 	"dmg" "5"
 	"forceclosed" "1"
+	"health" "1"
 	"ignoredebris" "1"
 	"lip" "0"
 	"locked_sentence" "0"
@@ -43945,6 +43870,7 @@ entity
 	"disableshadows" "0"
 	"dmg" "0"
 	"forceclosed" "0"
+	"health" "1"
 	"ignoredebris" "1"
 	"lip" "0"
 	"locked_sentence" "0"
@@ -48498,6 +48424,7 @@ entity
 	"disableshadows" "0"
 	"dmg" "0"
 	"forceclosed" "0"
+	"health" "1"
 	"ignoredebris" "1"
 	"lip" "0"
 	"locked_sentence" "0"
@@ -48727,6 +48654,7 @@ entity
 	"disableshadows" "0"
 	"dmg" "0"
 	"forceclosed" "0"
+	"health" "1"
 	"ignoredebris" "1"
 	"lip" "0"
 	"locked_sentence" "0"
@@ -49896,6 +49824,7 @@ entity
 	"disableshadows" "0"
 	"dmg" "0"
 	"forceclosed" "1"
+	"health" "1"
 	"ignoredebris" "1"
 	"lip" "0"
 	"locked_sentence" "0"
@@ -51066,6 +50995,7 @@ entity
 	"disableshadows" "0"
 	"dmg" "0"
 	"forceclosed" "0"
+	"health" "1"
 	"ignoredebris" "1"
 	"lip" "0"
 	"locked_sentence" "0"
@@ -89684,6 +89614,7 @@ entity
 	"disableshadows" "0"
 	"dmg" "0"
 	"forceclosed" "0"
+	"health" "1"
 	"ignoredebris" "1"
 	"lip" "0"
 	"locked_sentence" "0"
@@ -89794,6 +89725,7 @@ entity
 	"disableshadows" "0"
 	"dmg" "0"
 	"forceclosed" "0"
+	"health" "1"
 	"ignoredebris" "1"
 	"lip" "0"
 	"locked_sentence" "0"
@@ -90383,6 +90315,7 @@ entity
 	"disableshadows" "0"
 	"dmg" "0"
 	"forceclosed" "0"
+	"health" "1"
 	"ignoredebris" "0"
 	"lip" "0"
 	"locked_sentence" "0"
@@ -90607,6 +90540,7 @@ entity
 	"disableshadows" "0"
 	"dmg" "0"
 	"forceclosed" "0"
+	"health" "1"
 	"ignoredebris" "0"
 	"lip" "0"
 	"locked_sentence" "0"
@@ -99706,8 +99640,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-595.518 835.77 130.338]"
-		"look" "[-329.344 825.17 131.803]"
+		"position" "[558.39 254.537 223.632]"
+		"look" "[545.51 -0.591568 148.107]"
 	}
 	camera
 	{
