@@ -1,9 +1,9 @@
 # ZPSMapRepo
 This repo includes all of the map source files, materials, and .bsps for every single ZPS map I have ever worked on. Specifically, for the legendary Lake, Church, and Cabin maps that were (and still are to this day) popular in the game ZPS. In total, there are 23 maps included in this release and all of them have been updated for ZPS 3.1.
 
-After almost 8 years of maintaining these maps, I have finally decided to make them all open source to be freely distributed, used, worked on, and whatever else. These files are now available, freely, for anyone to use under GNU license (see the GNU license provided with the repo). This way, these maps may remain free and any derivatives will also be freely available for others as well. For maps such as these, this is the way it should be. 
+After many years of maintaining these maps, I have finally decided to make them all open source to be freely distributed, used, worked on, and whatever else. The map files are now available, freely, for anyone to use under GPLv3 license (see the license provided with the repo). For maps such as these, this is the way it should be. Also, for convenience purposes, I have included screenshots of the maps as well as the models, sounds, and textures used in them so that its easier to generate the maps with all of their assets.
 
-These files will be released once ZPS 3.1 drops and I've updated the maps again just in case any changes or updates to ZPS occur after 3.1 releases. If you do happen to port/update the maps, all I ask is that you credit the authors, keep the historic images and such in them (please, do not "rebrand" them and remove old logos and such), and release the map files openly as they were released to you. If possible, I'd like to suggest keeping the same naming convention as well, since most of these maps have been renamed to death and it probably wouldn't hurt to stay consistent, but that is just a suggestion.
+If you do happen to port/update the maps, all I ask is that you credit the authors, keep the historic images and such in them (please, do not "rebrand" them and remove old logos and such), and release the map files openly as they were released to you.
 
 The following things are included in this repo:
 
