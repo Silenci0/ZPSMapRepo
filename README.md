@@ -11,7 +11,7 @@ The following things are included in this repo:
 - Custom models.
 - Custom sound files.
 - Custom textures files.
-- Custom map .txt files (only used by lake_of_silence for map intro).
+- Custom map .txt files (only used by lake_silence for map intro).
 - Screenshots of each map (found in the Misc directory along with the custom files)
 
 For more information about the maps, their authors, their history, download links, and other things, please see this comprehensive wiki here: https://github.com/Silenci0/ZPSMapRepo/wiki
